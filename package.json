@@ -1,0 +1,11 @@
+{
+  "name": "viewport-example",
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "http-server docs/"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
